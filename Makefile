@@ -1,6 +1,7 @@
 TAR	= a.out
 OBJ	= chapter8_2.o
 SRC	= chapter8_2.c
+LIBS	= 
 #OBJ	+=
 CC	= gcc
 CFLAGS	= -Wall -O2 -g #-DWITH_FIELDS#-fno-stack-protector 
